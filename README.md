@@ -1,6 +1,6 @@
 # OPCL---Projet-2
 
-Second projet mené 
+## Améliorez un suivi d'activité des entrepôts d'une entreprise
 
 ## Objectifs 
 
